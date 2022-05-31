@@ -1,0 +1,47 @@
+.App p {
+  font-size: 100px;
+  color: chartreuse;
+  text-shadow: 3px 3px 3px black;
+  text-align: center;
+
+}
+.App button {
+  padding: 10px 20px;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  color: red;
+  font-size: 20px;
+  border: solid rgb(0, 0, 0);
+  position: relative;
+  top: 250px;
+  left: 250px;
+}
+.block {
+  width: 50px;
+  position: relative;
+  top: 190px;
+  left: 670px;
+}
+.block2 {
+  width: 50px;
+  position: relative;
+  top: 200px;
+  left: 700px;
+}
+.all {
+  position: relative;
+  left: 600px;
+  width: 500px;
+  
+}
+.gerb {
+  width: 30px;
+  
+  
+  
+}
+.flag {
+  width: 50px;
+  position: relative;
+  
+}
